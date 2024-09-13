@@ -1,0 +1,15 @@
+{
+	"id": "012c3c38-8abe-4e5a-bd7a-e57f4b3b85fa",
+	"name": "mocktest",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://ac0f1d2d-4db7-4c54-9959-01e180555a8f.mock.pstmn.io",
+			"type": "text",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-08-22T04:49:38.533Z",
+	"_postman_exported_using": "Postman/11.8.1"
+}
